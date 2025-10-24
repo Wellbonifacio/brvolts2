@@ -1,0 +1,32 @@
+{
+  "name": "Brvolts - Soluções em Eletricidade",
+  "short_name": "Brvolts",
+  "description": "Eletricista profissional em Maricá RJ. Serviços de instalação, reparo e manutenção elétrica.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0052CC",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["business", "services"],
+  "screenshots": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
