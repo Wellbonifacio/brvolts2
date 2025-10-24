@@ -3,7 +3,7 @@ Allow: /
 Disallow: /private/
 Disallow: /admin/
 
-Sitemap: https://brvolts.manus.space/sitemap.xml
+Sitemap: https://brvolts.site/sitemap.xml
 
 # Google specific
 User-agent: Googlebot
